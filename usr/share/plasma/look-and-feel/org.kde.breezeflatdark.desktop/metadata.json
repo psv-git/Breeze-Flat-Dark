@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": ""
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze Flat Dark Theme",
+        "Id": "org.kde.breezeflatdark.desktop",
+        "License": "GPLv2+",
+        "Name": "Breeze Flat Dark",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}

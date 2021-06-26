@@ -1,0 +1,36 @@
+{
+    "version": "0.1.0",
+    "publisher": "psv",
+    "name": "soft-breeze-theme",
+    "icon": "images/icon.png",
+    "homepage": "",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "license": "MIT",
+    "displayName": "Soft Breeze Theme",
+    "description": "",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "kde",
+        "breeze",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "galleryBanner": {
+        "color": "#252a2f",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soft Breeze Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/soft-breeze-color-theme.json"
+            }
+        ]
+    }
+}
